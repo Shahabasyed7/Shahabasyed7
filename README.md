@@ -1,75 +1,104 @@
-# Shahaba Syed
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Shahaba Syed</h1>
+<h3 align="center">AI & Data Science Enthusiast | Data Analyst | Builder</h3>
 
-AI & Data Science Enthusiast | Data Analyst | Builder
-
-Based in Mumbai, India. Focused on solving real-world problems using data, machine learning, and automation.
-
----
-
-## About
-
-I work on data-driven systems and AI-based solutions with a focus on practical applications rather than theory.  
-My interest lies in transforming raw data into meaningful insights and building tools that support decision-making.
-
-I actively build projects in data analytics, machine learning, and applied AI.
+<p align="center">
+  Mumbai, India • Passionate about AI, Data & Real-world Problem Solving
+</p>
 
 ---
 
-## Skills
+<!-- ABOUT -->
+## 👨‍💻 About Me
 
-**Programming:** Python, SQL, JavaScript (basic)  
-**Data & ML:** Pandas, NumPy, Scikit-learn  
-**Visualization:** Power BI, Matplotlib, Excel  
-**Tools & Workflow:** Git, GitHub, VS Code, Jupyter Notebook  
-
----
-
-## 🚀 Projects
-
-### 🔹 Autism & Down Syndrome Comparative Analysis System
-- Developed a healthcare-focused ML system for analyzing behavioral and health-based patterns.
-- Worked with structured datasets and image-based inputs for predictive insights.
-- Built visualization outputs for better interpretation of results.
+- 🚀 I build data-driven and AI-based systems  
+- 📊 Focused on Data Analytics, Machine Learning & Automation  
+- 🧠 Interested in solving real-world problems using data  
+- ⚡ Always exploring new tools, frameworks & ideas  
+- 🎯 Goal: Build impactful AI + Data products  
 
 ---
 
-### 🔹 AI Decision Intelligence System
-- Built an AI-based system for analyzing business, ethical, and risk-related scenarios.
-- Implemented multi-perspective reasoning for decision support.
-- Created an interactive interface for scenario input and AI-generated recommendations.
+<!-- SKILLS -->
+## 🛠 Tech Stack
+
+**Languages**  
+Python • SQL • JavaScript • HTML • CSS  
+
+**Data & AI**  
+Pandas • NumPy • Scikit-learn • Basic Deep Learning  
+
+**Visualization**  
+Power BI • Excel • Matplotlib  
+
+**Tools & Platforms**  
+Git • GitHub • VS Code • Jupyter • Firebase  
 
 ---
 
-### 🔹 Sales Analytics Dashboard (Power BI)
-- Designed an interactive dashboard to analyze sales trends and customer behavior.
-- Performed data cleaning and transformation using Excel and SQL.
-- Identified key business insights like top regions and product performance.
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+### 🧠 AI Decision Intelligence System
+Multi-scenario AI system that analyzes risk, ethics, and business decisions using structured logic and AI reasoning.
 
 ---
 
-### 🔹 BlockSpirit – Web3 Simulator (Proof-of-Stake Model)
-- Developed a Proof-of-Stake blockchain simulation for learning purposes.
-- Implemented staking and transaction flow logic.
-- Built UI for simulating blockchain interactions.
+### 🧬 Autism & Down Syndrome Analysis System
+ML-based system for behavioral and health pattern analysis using structured + image data for predictive insights.
 
 ---
 
-## Focus Areas
-
-- Data Analysis & Business Insights  
-- Machine Learning Applications  
-- Automation & Decision Systems  
-- Real-world problem solving with data  
+### 📊 Sales Analytics Dashboard
+Power BI dashboard built for sales performance tracking, revenue analysis, and business insights.
 
 ---
 
-## Status
-
-Actively building projects and improving skills in data analytics and AI-based systems.
+### ⛓ BlockSpirit – Web3 Simulator
+Proof-of-Stake blockchain simulator with staking logic and transaction flow visualization.
 
 ---
 
-## Contact
+<!-- EXPERIENCE -->
+## 💼 Experience
 
-LinkedIn: www.linkedin.com/in/shahaba-syed-suroor-ahmed-5ab183252  
-Email: Shahabasyed7@gmail.com
+**Frontend Web Developer Intern**  
+Web Inbox • Jan 2026 – Mar 2026  
+- Built responsive websites using HTML, CSS & JavaScript  
+- Converted UI designs into functional web pages  
+- Improved performance & usability of live projects  
+
+**Web & Digital Intern**  
+Web Inbox • Jun 2025 – Oct 2025  
+- Managed social media content & branding  
+- Created marketing creatives and posts  
+- Assisted in SEO optimization  
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahabasyed7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Connect With Me
+
+- 📧 Email: shahabasyed7@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shahaba-syed-suroor-ahmed-5ab183252/  
+- 💻 GitHub: https://github.com/Shahabasyed7  
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <b>“Building ideas into real systems with data & AI.”</b>
+</p>
