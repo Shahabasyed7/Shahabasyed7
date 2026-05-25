@@ -109,14 +109,14 @@
 ---
 
 
-## 💻 Language Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,php,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
