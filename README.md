@@ -111,11 +111,7 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahabasyed7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabasyed7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahabasyed7&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -123,7 +119,7 @@
 ## 📈 LANGUAGE STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
