@@ -108,18 +108,15 @@
 
 ---
 
-## 📊 GITHUB STATS
+
+## 💻 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahabasyed7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
-
-## 📈 LANGUAGE STATS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabasyed7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,php,git,vscode" />
 </p>
 
 ---
