@@ -1,55 +1,75 @@
-<h1 align="center">Hi 👋, I'm Shahaba Syed</h1>
-<h3 align="center">AI & Data Science Student | Frontend Developer | Tech Enthusiast</h3>
+# Shahaba Syed
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+AI & Data Science Enthusiast | Data Analyst | Builder
 
----
-
-### 🚀 About Me
-
-- 🎓 Artificial Intelligence & Data Science Student
-- 💻 Interested in Frontend Development & AI
-- 📊 Passionate about Data Science & Dashboards
-- 🌱 Currently learning Full Stack Development
-- ⚡ Love building creative tech projects
+Based in Mumbai, India. Focused on solving real-world problems using data, machine learning, and automation.
 
 ---
 
-### 🛠️ Languages & Tools
+## About
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,react,mysql,git,github,vscode" />
-</p>
+I work on data-driven systems and AI-based solutions with a focus on practical applications rather than theory.  
+My interest lies in transforming raw data into meaningful insights and building tools that support decision-making.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahabasyed7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabasyed7&theme=tokyonight" />
-</p>
+I actively build projects in data analytics, machine learning, and applied AI.
 
 ---
 
-### 🌐 Connect With Me
+## Skills
 
-<p align="left">
-<a href="https://github.com/Shahabasyed7" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-</p>
+**Programming:** Python, SQL, JavaScript (basic)  
+**Data & ML:** Pandas, NumPy, Scikit-learn  
+**Visualization:** Power BI, Matplotlib, Excel  
+**Tools & Workflow:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
-### ✨ Quote
+## 🚀 Projects
 
-> "Code. Learn. Build. Repeat."
+### 🔹 Autism & Down Syndrome Comparative Analysis System
+- Developed a healthcare-focused ML system for analyzing behavioral and health-based patterns.
+- Worked with structured datasets and image-based inputs for predictive insights.
+- Built visualization outputs for better interpretation of results.
 
-<!---
-Shahabasyed7/Shahabasyed7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔹 AI Decision Intelligence System
+- Built an AI-based system for analyzing business, ethical, and risk-related scenarios.
+- Implemented multi-perspective reasoning for decision support.
+- Created an interactive interface for scenario input and AI-generated recommendations.
+
+---
+
+### 🔹 Sales Analytics Dashboard (Power BI)
+- Designed an interactive dashboard to analyze sales trends and customer behavior.
+- Performed data cleaning and transformation using Excel and SQL.
+- Identified key business insights like top regions and product performance.
+
+---
+
+### 🔹 BlockSpirit – Web3 Simulator (Proof-of-Stake Model)
+- Developed a Proof-of-Stake blockchain simulation for learning purposes.
+- Implemented staking and transaction flow logic.
+- Built UI for simulating blockchain interactions.
+
+---
+
+## Focus Areas
+
+- Data Analysis & Business Insights  
+- Machine Learning Applications  
+- Automation & Decision Systems  
+- Real-world problem solving with data  
+
+---
+
+## Status
+
+Actively building projects and improving skills in data analytics and AI-based systems.
+
+---
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/shahaba-syed-suroor-ahmed-5ab183252  
+Email: Shahabasyed7@gmail.com
